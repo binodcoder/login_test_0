@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoginDemo</string>
+    <string name="user_hint">Enter Username</string>
+    <string name="password_hint">Enter password</string>
+    <string name="switch_text">Remember username and password</string>
+    <string name="login_button">Login</string>
+    <string name="view_button">View All</string>
+</resources>
